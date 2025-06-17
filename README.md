@@ -19,7 +19,7 @@ This isn’t just a fun project; it’s a hands-on way to understand how profess
   4. **QA Engineer** 🕵️‍♀️ - Makes sure an application performs according to requirements. Spots functional and non-functional defects.
 
 
-<h2>Tech Stack</h2>
+<h2>Technology Stack</h2>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> Django & Django REST Framework
 
